@@ -1,0 +1,14 @@
+#card-container {
+  background-color: #219ebc;
+  border-color: #219ebc;
+  border-width: 1rem;
+  border-radius: 0;
+}
+
+#card-body-container {
+  background-color: #ffb703;
+}
+
+.total-container {
+  padding-top: 35rem;
+}

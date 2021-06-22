@@ -1,0 +1,28 @@
+#image-container {
+  padding-top: 40px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#button-container {
+  padding-top: 100px;
+}
+
+#second-row {
+  padding-top: 50px;
+}
+
+#btn-container {
+  background-color: #013a63;
+  width: 90px;
+  color: white;
+  border-radius: 50%;
+  font-size: 29px;
+}
+
+#btn-container:hover {
+  color: white;
+}

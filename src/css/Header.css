@@ -1,0 +1,10 @@
+#container {
+  text-align: center;
+  background-color: #219ebc;
+  height: 100px;
+}
+
+#title {
+  color: #ffb703;
+  font-size: 70px;
+}
