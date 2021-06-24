@@ -12,13 +12,13 @@ function App() {
       <Header />
       <div className="container">
         <div className="row">
-          <div class="col">
+          <div className="col">
             <LeftSide />
           </div>
-          <div class="col-5">
+          <div className="col-5">
             <Ticket />
           </div>
-          <div class="col">
+          <div className="col">
             <DisplayWindow />
           </div>
         </div>
