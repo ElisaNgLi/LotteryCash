@@ -11,18 +11,20 @@ img {
   padding-top: 100px;
 }
 
-#second-row {
-  padding-top: 50px;
-}
-
 #btn-container {
   background-color: #013a63;
   width: 90px;
   color: white;
   border-radius: 50%;
-  font-size: 29px;
+  font-size: 40px;
+  padding-right: 100px;
+  padding-top: 30px;
+  margin-right: 25px;
+  margin-top: 25px;
 }
 
 #btn-container:hover {
   color: white;
+  border-color: #219ebc;
+  border-width: 5px;
 }

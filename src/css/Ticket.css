@@ -2,3 +2,26 @@
   background-color: #014f86;
   border-radius: 0;
 }
+
+#number-container {
+  background-color: #468faf;
+  font-size: 40px;
+  width: 20%;
+  margin-right: 22px;
+  margin-top: 10px;
+}
+
+#number-container:focus {
+  background-color: #8ecae6;
+  border-color: #a9d6e5;
+  border-width: 5px;
+}
+
+#button-con {
+  background-color: #fb8500;
+  font-size: 20px;
+  width: 20%;
+  margin-left: 80px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
