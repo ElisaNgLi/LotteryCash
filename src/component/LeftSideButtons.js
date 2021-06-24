@@ -1,17 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 
 import "../css/LeftSideButtons.css";
 import lottery from "../assets/lottery-balls.png";
 
-const LeftSideButtons = () => {
-  const [total, setTotal] = useState(0);
-
-  //When user click the button it adds up the value
-  const addTotal = (value) => {
-    const totalValue = value + total;
-    setTotal(totalValue);
-  };
-
+const LeftSideButtons = ({ addTotal }) => {
   // Dollar value of the button
   const buttonOption = [1, 5, 10, 20];
 
